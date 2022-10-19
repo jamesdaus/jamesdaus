@@ -18,7 +18,7 @@ I’m James, a Software Engineer with 4 years of experience developing in Python
 
 🧠 I’m always learning and tinkering. 
 - In my free time I explore datasets, build prototypes, and take online courses. 
-- I also love paying it forward through teaching, and I've worked as a teaching assistant and volunteered as a coding mentor at a non-profit.
+- I love paying it forward through teaching. I've worked as a teaching assistant and volunteered as a coding mentor at a non-profit.
 
 🐲 I’m a communicator. 
 - I have a passion for bridging the gap between technical and non-technical audiences, and have written community updates for 2,800+ members.
