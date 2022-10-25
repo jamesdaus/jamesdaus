@@ -5,7 +5,7 @@ Hi!
 I’m James, a Software Engineer with 4 years of experience developing in Python, C#, and Java. Here’s a bit more about me:
 
 🔨 I build large-scale apps. 
-- I've created a social platform with two thousands users.
+- I've created a social platform with thousands of users.
 - I've written algorithms to process thousands of high resolution photos of wildlife for researchers.
 
 📜 I love details and value reliability. 
